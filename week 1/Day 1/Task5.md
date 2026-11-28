@@ -1,0 +1,1 @@
+Instagram uses Python in production as a core language for its backend web services. Its engineering teams rely on Python to handle large-scale server requests, data processing, and everyday operational tasks efficiently. This helps keep core app features running smoothly for millions of active users.
